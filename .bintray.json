@@ -1,0 +1,17 @@
+{
+  "package": {
+    "name": "hstack",
+    "repo": "Utilities",
+    "subject": "gibr"
+  },
+  "version": {
+    "name": "0.1"
+  },
+  "files": [
+    {
+      "includePattern": "build/libs/hstack.jar)",
+      "uploadPattern": "net/gibr/hstack/$1""be/tribersoft/triber-todo-config-server/0.0.1-SNAPSHOT/$1"
+    }
+  ],
+  "publish": true
+}
